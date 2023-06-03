@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "chai": "^4.3.7",
+    "jquery": "^3.7.0",
+    "mocha": "^10.2.0",
+    "node": "^20.2.0"
+  }
+}
